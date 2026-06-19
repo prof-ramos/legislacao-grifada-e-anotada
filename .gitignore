@@ -1,0 +1,28 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotbackup
+
+# Microsoft Office Temporary Files
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Python / UV directories (se aplicável)
+.venv/
+.uv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
